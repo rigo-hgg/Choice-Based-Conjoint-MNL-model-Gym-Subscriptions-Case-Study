@@ -7,3 +7,5 @@ Among the public places hardest hit by the lockdown to try to bring down the rat
 - corresponding price per month (40 euros / 60 euros / 80 euros)
 
 The aim of the data analysis is to assess the relationship between the choice and the product attributes. To do this a discrete choice model has been used, such as the multinomial logit regression.
+
+The original code has been written in R.
